@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sher-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="sher-hassan" /> </p>
 
-- 🌱 I’m currently learning **Web Development, App Development, Java, Python**
+- I’m currently learning **Web Development, App Development, Java, Python**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++**
+- Ask me about **HTML, CSS, JavaScript, C++**
 
-- 📫 How to reach me **sherhassan739@gmail.com**
+- How to reach me **sherhassan739@gmail.com**
 
-- 📄 Know about my experiences [https://sher-hassan.github.io/CV/](https://sher-hassan.github.io/CV/)
+- Know about my experiences [https://sher-hassan.github.io/CV/](https://sher-hassan.github.io/CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sher hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sher hassan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sher-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sher-hassan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23908763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23908763" height="30" width="40" /></a>
 <a href="https://fb.com/lleo.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lleo.se" height="30" width="40" /></a>
 <a href="https://instagram.com/lleo.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lleo.se" height="30" width="40" /></a>
