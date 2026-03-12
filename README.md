@@ -12,7 +12,7 @@
 
 <!-- Profile Visitor Counter & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sherhassan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sher-Hassan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
   &nbsp;
@@ -26,7 +26,7 @@
 ## 🧬 About Me
 
 ```typescript
-const sherHassan: Developer = {
+const Sher-Hassan: Developer = {
   name:       "Sher Hassan",
   title:      "Full Stack Engineer",
   experience: "2+ Years",
@@ -139,23 +139,23 @@ const sherHassan: Developer = {
 <div align="center">
 
 <!-- GitHub Stats + Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sher-Hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherhassan&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sher-Hassan&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
 
 <br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=sherhassan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Sher-Hassan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sherhassan&theme=tokyo-night&hide_border=true&radius=10" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sher-Hassan&theme=tokyo-night&hide_border=true&radius=10" width="95%" alt="Contribution Graph"/>
 
 </div>
 
-> 💡 **Note:** Replace `sherhassan` in all badge URLs above with your actual GitHub username.
+> 💡 **Note:** Replace `Sher-Hassan` in all badge URLs above with your actual GitHub username.
 
 ---
 
@@ -164,15 +164,15 @@ const sherHassan: Developer = {
 <div align="center">
 
 <!-- Profile Summary Cards — reliable alternative to the trophy widget -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherhassan&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sher-Hassan&theme=tokyonight" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherhassan&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sher-Hassan&theme=tokyonight"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherhassan&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sher-Hassan&theme=tokyonight"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherhassan&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sher-Hassan&theme=tokyonight"/>
 
 </div>
 
@@ -200,7 +200,7 @@ philosophy: >
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/sherhassan">
+  <a href="https://linkedin.com/in/Sher-Hassan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -208,11 +208,11 @@ philosophy: >
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/sherhassan">
+  <a href="https://twitter.com/Sher-Hassan">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sherhassan.dev">
+  <a href="https://Sher-Hassan.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
