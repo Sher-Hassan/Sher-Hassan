@@ -130,7 +130,6 @@ const Sher-Hassan: Developer = {
   </tr>
 </table>
 
-> 🛠️ **Current build:** An agentic research assistant that autonomously browses, synthesizes, and delivers structured insights — zero prompt engineering required by the end user.
 
 ---
 
