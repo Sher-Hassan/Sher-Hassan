@@ -155,7 +155,7 @@ const Sher-Hassan: Developer = {
 
 </div>
 
-> 💡 **Note:** Replace `Sher-Hassan` in all badge URLs above with your actual GitHub username.
+
 
 ---
 
