@@ -1,42 +1,224 @@
-![logo](https://github.com/Sher-Hassan/Sher-Hassan/blob/main/Github%20banner.jpeg)
-<h1 align="center">Hello, I am Sher Hassan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sher%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sher-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="sher-hassan" /> </p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+%7C+MERN+%7C+PERN+Developer+%F0%9F%9A%80;Generative+AI+%26+Agentic+Pipelines+%F0%9F%A7%A0;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently learning **Data Science**
+<br/>
 
-- 💬 Ask me about **MERN/PERN Stack (MongoDB,PostgreSQL Express, React, Node), JavaScript, and C++**
-
-- 📫 How to reach me **sherhassan739@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sherhassan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherhassan25" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sher-hassan-675866284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sher-hassan" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/23908763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23908763" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/lleo.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lleo.se" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/lleo.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lleo.se" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/sherhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sherhassan" height="30" width="40" /></a>
+<!-- Profile Visitor Counter & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sherhassan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const sherHassan: Developer = {
+  name:       "Sher Hassan",
+  title:      "Full Stack Engineer",
+  experience: "2+ Years",
+  location:   "🌍 Building remotely, shipping globally",
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+    ai:        ["LangChain", "OpenAI API", "HuggingFace", "LlamaIndex"],
+    devops:    ["Docker", "AWS", "Vercel", "CI/CD Pipelines"],
+  },
+
+  currentMission: "Architecting agentic AI systems that actually ship 🚀",
+  learning:       ["Data Science", "ML Engineering", "RAG Pipelines"],
+  funFact:        "I debug code and riffs — guitar is my other IDE 🎸",
+};
+```
+
+<br/>
+
+> *"The best way to predict the future is to build it — with a great stack and even better coffee."*
+
+---
+
+## ⚡ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sher-hassan&show_icons=true&locale=en&layout=compact" alt="sher-hassan" /></p>
+### 🛠️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sher-hassan&show_icons=true&locale=en" alt="sher-hassan" /></p>
+### 🤖 AI / ML & Data
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sher-hassan&" alt="sher-hassan" /></p>
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🧠 Building
+```
+🔹 Agentic AI pipelines with multi-step reasoning
+🔹 RAG systems with semantic vector search
+🔹 Full-stack SaaS products with AI at the core
+🔹 LLM-powered developer tooling
+```
+
+</td>
+    <td width="50%">
+
+### 📚 Learning
+```
+📊 Data Science & Statistical Modeling
+🤖 ML Engineering & Model Fine-tuning
+🔗 Advanced RAG & Agentic Architectures
+☁️  Cloud-native AI deployment (AWS/GCP)
+```
+
+</td>
+  </tr>
+</table>
+
+> 🛠️ **Current build:** An agentic research assistant that autonomously browses, synthesizes, and delivers structured insights — zero prompt engineering required by the end user.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats + Streak side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherhassan&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=sherhassan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sherhassan&theme=tokyo-night&hide_border=true&radius=10" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+> 💡 **Note:** Replace `sherhassan` in all badge URLs above with your actual GitHub username.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sherhassan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="95%"/>
+</div>
+
+---
+
+## 🎸 Beyond the Code
+
+```yaml
+when_not_shipping:
+  - 🎸 Shredding riffs and writing original guitar pieces
+       — music is just another form of pattern recognition
+  - 🎮 Deep in strategy games — because macro thinking matters
+  - 📖 Reading about AI safety, philosophy of mind & system design
+  - ☕ Perfecting the pour-over brew ratio (it's an engineering problem)
+
+philosophy: >
+  "Code is the easy part. The real craft is in the architecture of thought —
+   knowing *what* to build, *why* it matters, and *how* it will scale."
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/sherhassan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sher@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/sherhassan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sherhassan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+**Open to:** Full-time roles · Freelance contracts · AI/ML collaborations · Open source projects
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⚡ Built with obsession, shipped with precision · <b>Sher Hassan</b> © 2025</sub>
+
+</div>
