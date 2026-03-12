@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sher%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Header Banner — using svg-banners (reliable, self-hosted on Vercel) -->
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Sher%20Hassan%20%F0%9F%9A%80&text2=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20Builder&width=900&height=200" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -159,10 +159,21 @@ const sherHassan: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements at a Glance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sherhassan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="95%"/>
+
+<!-- Profile Summary Cards — reliable alternative to the trophy widget -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherhassan&theme=tokyonight" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherhassan&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherhassan&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherhassan&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -216,8 +227,8 @@ philosophy: >
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Footer — clean gradient line via shields.io -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <sub>⚡ Built with obsession, shipped with precision · <b>Sher Hassan</b> © 2025</sub>
 
